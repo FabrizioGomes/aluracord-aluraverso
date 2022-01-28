@@ -33,6 +33,7 @@ export default function MyApp({ Component, pageProps }) {
         <>
             <GlobalStyle/>
             <Component {...pageProps} />
+            
         </>
 
     )
